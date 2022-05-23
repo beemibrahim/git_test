@@ -1,0 +1,5 @@
+1 min 36 seconds = non cached (caches xml)
+
+1 min 35 seconds = cached
+
+2 min = non cached (doesnt cache anything)
